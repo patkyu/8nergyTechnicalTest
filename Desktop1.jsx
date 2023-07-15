@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Image2Image from '/components/image.png';
+import Image2Image from 'image.png';
 
-import Features03Image021Image from "/components/landing-page.png";
+import Features03Image021Image from "landing-page.png";
 
 import {
   styled
